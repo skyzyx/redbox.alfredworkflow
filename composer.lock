@@ -147,16 +147,16 @@
         },
         {
             "name": "skyzyx/alfred-workflow-builder",
-            "version": "1.0.4",
+            "version": "1.0.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/skyzyx/alfred-workflow-builder.git",
-                "reference": "1.0.4"
+                "reference": "1.0.5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/skyzyx/alfred-workflow-builder/zipball/1.0.4",
-                "reference": "1.0.4",
+                "url": "https://api.github.com/repos/skyzyx/alfred-workflow-builder/zipball/1.0.5",
+                "reference": "1.0.5",
                 "shasum": ""
             },
             "require": {
@@ -192,7 +192,7 @@
                 "alfred",
                 "workflow"
             ],
-            "time": "2013-04-02 04:42:30"
+            "time": "2013-07-04 23:56:26"
         },
         {
             "name": "symfony/event-dispatcher",
